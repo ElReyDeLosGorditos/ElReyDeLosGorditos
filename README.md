@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://regis-portfolio-nine.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/john-lawrence-regis-0b8163366/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
