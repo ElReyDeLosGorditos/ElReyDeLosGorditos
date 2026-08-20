@@ -1,70 +1,130 @@
 <p align="center">
-  <img src="./assets/githubbanner.png" width="100%" alt="John Lawrence Regis Banner"/>
+  <img src="./assets/githubbanner.png" width="100%" alt="John Lawrence Regis" />
+</p>
+
+<h1 align="center">John Lawrence Regis</h1>
+
+<p align="center">
+  QA Automation · Full-Stack Development
 </p>
 
 <p align="center">
-  <strong>John Lawrence Regis</strong> &nbsp;•&nbsp; QA Automation & Full-Stack Engineer<br>
-  <sub><em>BUILD. TEST. ASCEND.</em></sub>
-</p>
-
-<p align="center">
-  <a href="https://your-portfolio-link.com">Portfolio</a> &nbsp;•&nbsp; 
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> &nbsp;•&nbsp; 
+  <a href="https://your-portfolio-link.com">Portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
+  ·
   <a href="https://github.com/ElReyDeLosGorditos">GitHub</a>
 </p>
 
 ---
 
-### About
+## About
 
-Full-stack developer focused on building resilient applications and validating them through automated testing workflows. Specializing in end-to-end automation, backend architecture, and CI/CD pipelines.
+I'm a BSIT graduate focused on **QA automation and full-stack development**.
 
-* **Degree:** BSIT Graduate
-* **Core Focus:** Web Development & Automated Software Verification
-* **Current Work:** End-to-end Playwright testing pipelines via GitHub Actions
+I enjoy building applications, understanding how they work, and making sure they behave reliably through automated testing.
 
----
-
-### Tech Stack
-
-* **Frontend:** React, JavaScript, Tailwind CSS, HTML5/CSS3, Vite
-* **Backend:** Laravel, PHP, MySQL, Firebase, REST APIs
-* **QA & Tools:** Playwright, Postman, Git, GitHub Actions, Figma, VS Code
+Currently working with **Playwright, React, Laravel, MySQL, and GitHub Actions**, with a focus on end-to-end testing and CI workflows.
 
 ---
 
-### Featured Projects
+## Tech Stack
 
-#### TaskFlow QA
-*Full-stack task management system integrated with an automated E2E testing framework.*
-* **Stack:** React, Laravel, MySQL, Playwright
-* **Testing:** Page Object Model (POM), GitHub Actions CI, HTML Reporting, Trace Viewer
-* **Links:** [Repository](https://github.com/ElReyDeLosGorditos/taskflow-qa)
+### Frontend
 
-#### CircuitHub
-*Automated laboratory equipment tracking and borrowing platform.*
-* **Stack:** React, Firebase, Spring Boot
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
 
-#### Project Aether
-*Phaser-based RPG prototype exploring interactive game mechanics and combat state machines.*
+### Backend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase" />
+</p>
 
-### Current Focus
+### Testing & Tools
 
-* E2E Automation Architecture with **Playwright**
-* CI/CD Testing Pipelines with **GitHub Actions**
-* Scalable API Design with **Laravel**
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright,git,github,figma,postman,vscode" />
+</p>
 
 ---
 
-### Metrics
+## Featured Projects
+
+### TaskFlow QA
+
+A full-stack task management application built as a practical QA automation project.
+
+**Stack**
+
+`React` · `Laravel` · `MySQL` · `Playwright`
+
+**Testing**
+
+- Page Object Model architecture
+- End-to-end test coverage
+- Authentication and task workflows
+- GitHub Actions CI pipeline
+- HTML test reports
+- Screenshots, videos, and traces
+
+**Repository:**  
+https://github.com/ElReyDeLosGorditos/taskflow-qa
+
+---
+
+### Project Aether
+
+A Phaser-based RPG prototype focused on interactive gameplay, player mechanics, combat, and world exploration.
+
+**Stack**
+
+`Phaser` · `JavaScript` · `Vite` · `React`
+
+---
+
+### CircuitHub
+
+An equipment borrowing platform designed for managing laboratory equipment and borrowing workflows.
+
+**Stack**
+
+`React` · `Firebase` · `Spring Boot`
+
+---
+
+## Current Focus
+
+**QA Automation**
+
+`Playwright` · `E2E Testing` · `Page Object Model` · `CI/CD`
+
+**Full-Stack Development**
+
+`React` · `Laravel` · `REST APIs` · `MySQL`
+
+**Development Workflow**
+
+`Git` · `GitHub` · `GitHub Actions` · `Automated Testing`
+
+---
+
+## GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=94a3b8&icon_color=f472b6" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=94a3b8" alt="Top Languages"/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <sub>"Good software isn't just built — it's verified."</sub>
+  <sub>Building software. Testing it. Improving it.</sub>
 </p>
