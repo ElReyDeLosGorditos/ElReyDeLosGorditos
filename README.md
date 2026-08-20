@@ -7,9 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><b>Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/your-profile"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/ElReyDeLosGorditos"><b>GitHub</b></a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ElReyDeLosGorditos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
