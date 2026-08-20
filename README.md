@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="John Lawrence Regis Banner"/>
+  <img src="./assets/githubbanner.png" width="100%" alt="John Lawrence Regis Banner"/>
 </p>
 <div align="center">
 
