@@ -118,18 +118,18 @@ I build resilient full-stack applications and construct automated testing pipeli
 
 ### 📊 Engineering Metrics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
 </div>
 
