@@ -67,123 +67,76 @@ I build resilient full-stack applications and construct automated testing pipeli
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3><a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">TaskFlow QA</a></h3>
-      <p>Full-stack task management application engineered specifically as an end-to-end QA automation testbed.</p>
-      <ul>
-        <li>Implemented <b>Page Object Model (POM)</b> architecture with Playwright</li>
-        <li>Automated authentication, task state transitions, and boundary conditions</li>
-        <li>Built integrated <b>GitHub Actions CI pipeline</b> producing HTML reports, traces, and video artifacts</li>
-      </ul>
-      <p align="left">
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">⚡ TaskFlow QA</a></h3>
+      <p align="center"><i>Full-stack task management application built as a dedicated QA automation testbed.</i></p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
       </p>
-    </td>
-    <td width="40%" valign="top">
-      <h4>Core Capabilities Tested</h4>
       <ul>
-        <li>Cross-browser execution</li>
-        <li>Automated CI test runs</li>
-        <li>Visual regression & traces</li>
-        <li>REST API state assertions</li>
+        <li><b>Page Object Model (POM)</b> architecture</li>
+        <li>Automated end-to-end test coverage</li>
+        <li>GitHub Actions CI pipeline integration</li>
+        <li>HTML test reports, traces, and video artifacts</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow QA Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Project Aether</h3>
+      <p align="center"><i>Phaser-based RPG prototype exploring gameplay systems and interactive world mechanics.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Phaser-8B5CF6?style=flat-square&logo=phaser&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <ul>
+        <li>Player movement & combat mechanics</li>
+        <li>Collision detection & spatial physics</li>
+        <li>Game state management & world interactions</li>
       </ul>
     </td>
   </tr>
-</table>
-
-<h2>Featured Projects</h2>
-
-<table>
   <tr>
     <td width="50%" valign="top">
-
-### TaskFlow QA
-
-Full-stack task management application built as a dedicated QA automation project.
-
-**Stack**
-
-`React` · `Laravel` · `MySQL` · `Playwright`
-
-**Highlights**
-
-- Page Object Model architecture
-- End-to-end testing
-- Authentication & task workflows
-- GitHub Actions CI
-- HTML reports, traces & videos
-
-<a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="TaskFlow QA Repository" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Project Aether
-
-Phaser-based RPG prototype exploring gameplay systems and interactive world mechanics.
-
-**Stack**
-
-`Phaser` · `JavaScript` · `Vite`
-
-**Highlights**
-
-- Player movement
-- Combat mechanics
-- Collision detection
-- Game state management
-- World interaction
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### CircuitHub
-
-Laboratory equipment borrowing platform designed to manage equipment availability and borrowing workflows.
-
-**Stack**
-
-`React` · `Firebase` · `Spring Boot`
-
-**Highlights**
-
-- Equipment management
-- Borrowing workflows
-- Availability tracking
-- Administrative management
-
-</td>
-<td width="50%" valign="top">
-
-### BMS
-
-Bus management system focused on organizing transportation data and supporting administrative workflows.
-
-**Stack**
-
-`Android` · `Java` · `Firebase`
-
-**Highlights**
-
-- Route management
-- Bus information
-- User-facing mobile interface
-- Data management
-
-</td>
-</tr>
+      <h3 align="center">🔌 CircuitHub</h3>
+      <p align="center"><i>Laboratory equipment tracking platform for automated borrowing workflows.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      </p>
+      <ul>
+        <li>Equipment availability & checkout tracking</li>
+        <li>Automated borrowing & reservation workflows</li>
+        <li>Administrative management & audit trails</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚌 Bus Management System (BMS)</h3>
+      <p align="center"><i>Mobile system focused on organizing terminal transportation and routing workflows.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <ul>
+        <li>Route management & schedule display</li>
+        <li>User-facing mobile terminal interface</li>
+        <li>Real-time transportation data sync</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
