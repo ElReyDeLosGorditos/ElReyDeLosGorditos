@@ -2,94 +2,69 @@
   <img src="./assets/githubbanner.png" width="100%" alt="John Lawrence Regis Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm John Lawrence Regis 👋</h1>
 <p align="center">
-  <b>Aspiring QA Engineeer | Full-Stack Developer</b>
-</p>
-
-<p align="center">
-  <i>"Building software and testing it like it ships to production."</i>
+  <strong>John Lawrence Regis</strong> &nbsp;•&nbsp; QA Automation & Full-Stack Engineer<br>
+  <sub><em>BUILD. TEST. ASCEND.</em></sub>
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=Discover&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ElReyDeLosGorditos/taskflow-qa"><img src="https://img.shields.io/badge/TaskFlow_QA-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow QA"/></a>
+  <a href="https://your-portfolio-link.com">Portfolio</a> &nbsp;•&nbsp; 
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> &nbsp;•&nbsp; 
+  <a href="https://github.com/ElReyDeLosGorditos">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-* 🎓 **Education:** BSIT Graduate
-* 🔍 **Primary Focus:** QA Automation & Full-Stack Development
-* ⚡ **Current Rig:** Building Playwright testing workflows integrated with GitHub Actions CI/CD
-* 🚀 **Passion:** Creating resilient applications and validating them through automated testing pipelines
+Full-stack developer focused on building resilient applications and validating them through automated testing workflows. Specializing in end-to-end automation, backend architecture, and CI/CD pipelines.
+
+* **Degree:** BSIT Graduate
+* **Core Focus:** Web Development & Automated Software Verification
+* **Current Work:** End-to-end Playwright testing pipelines via GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" alt="Frontend Tech" />
+* **Frontend:** React, JavaScript, Tailwind CSS, HTML5/CSS3, Vite
+* **Backend:** Laravel, PHP, MySQL, Firebase, REST APIs
+* **QA & Tools:** Playwright, Postman, Git, GitHub Actions, Figma, VS Code
+
+---
+
+### Featured Projects
+
+#### TaskFlow QA
+*Full-stack task management system integrated with an automated E2E testing framework.*
+* **Stack:** React, Laravel, MySQL, Playwright
+* **Testing:** Page Object Model (POM), GitHub Actions CI, HTML Reporting, Trace Viewer
+* **Links:** [Repository](https://github.com/ElReyDeLosGorditos/taskflow-qa)
+
+#### CircuitHub
+*Automated laboratory equipment tracking and borrowing platform.*
+* **Stack:** React, Firebase, Spring Boot
+
+#### Project Aether
+*Phaser-based RPG prototype exploring interactive game mechanics and combat state machines.*
+
+---
+
+### Current Focus
+
+* E2E Automation Architecture with **Playwright**
+* CI/CD Testing Pipelines with **GitHub Actions**
+* Scalable API Design with **Laravel**
+
+---
+
+### Metrics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=94a3b8&icon_color=f472b6" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=94a3b8" alt="Top Languages"/>
 </p>
 
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase" alt="Backend Tech" />
+<p align="center">
+  <sub>"Good software isn't just built — it's verified."</sub>
 </p>
-
-**Testing & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" alt="Tools & Testing" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧪 TaskFlow QA
-*Full-stack task management application with end-to-end test automation.*
-
-* **Tech Stack:** React, Laravel, MySQL, Playwright
-* **Testing Highlights:**
-  * Page Object Model (POM) Architecture
-  * Automated GitHub Actions CI Pipeline
-  * HTML Test Reports, Screenshots, Video Recording & Trace Viewer Integration
-* 🔗 **Repository:** [`taskflow-qa`](https://github.com/ElReyDeLosGorditos/taskflow-qa)
-
----
-
-### 🎮 Project Aether
-*Phaser-based RPG prototype exploring interactive game mechanics and combat systems.*
-
----
-
-### 🔧 CircuitHub
-*Automated equipment borrowing platform built with React, Firebase, and Spring Boot.*
-
----
-
-## 🎯 Current Focus
-
-* **Playwright** E2E Automation
-* **Laravel** RESTful APIs & Backend Architecture
-* **GitHub Actions** CI/CD Pipelines & Continuous Testing Workflows
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <blockquote>
-    <i>"Good software isn't just built — it's verified."</i>
-  </blockquote>
-</div>
