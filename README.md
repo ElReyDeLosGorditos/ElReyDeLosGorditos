@@ -114,27 +114,6 @@ I build resilient full-stack applications and construct automated testing pipeli
 
 ---
 
-<div align="center">
-
-### 📊 Engineering Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ElReyDeLosGorditos&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyDeLosGorditos&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
-
-</div>
-
----
-
 <p align="center">
   <code>console.log("Build. Test. Automate. Repeat.");</code>
 </p>
