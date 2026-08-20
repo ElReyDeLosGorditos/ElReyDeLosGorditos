@@ -67,77 +67,73 @@ I build resilient full-stack applications and construct automated testing pipeli
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">⚡ TaskFlow QA</a></h3>
-      <p align="center"><i>Full-stack task management application built as a dedicated QA automation testbed.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">⚡ TaskFlow QA</a> <img src="https://img.shields.io/badge/Featured_QA_Project-0EA5E9?style=flat-square" /></h3>
+      <p>Full-stack task management application built specifically as an end-to-end QA automation testbed.</p>
+      <p>
+        <b>Tech Stack:</b> 
+        <code>React</code> · <code>Laravel</code> · <code>MySQL</code> · <code>Playwright</code> · <code>GitHub Actions</code>
       </p>
       <ul>
-        <li><b>Page Object Model (POM)</b> architecture</li>
-        <li>Automated end-to-end test coverage</li>
-        <li>GitHub Actions CI pipeline integration</li>
-        <li>HTML test reports, traces, and video artifacts</li>
+        <li>Structured with <b>Page Object Model (POM)</b> architecture for scalable test suites</li>
+        <li>Automates authentication, task state transitions, and edge cases</li>
+        <li>Integrated CI/CD pipeline triggering HTML reports, traces, and video artifacts on pull requests</li>
       </ul>
-      <p align="center">
+      <p align="left">
         <a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow QA Repository" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="TaskFlow QA Repository" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Project Aether</h3>
-      <p align="center"><i>Phaser-based RPG prototype exploring gameplay systems and interactive world mechanics.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Phaser-8B5CF6?style=flat-square&logo=phaser&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-      <ul>
-        <li>Player movement & combat mechanics</li>
-        <li>Collision detection & spatial physics</li>
-        <li>Game state management & world interactions</li>
-      </ul>
-    </td>
   </tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>View More Projects (Project Aether, CircuitHub, BMS)</b></summary>
+<br/>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 CircuitHub</h3>
-      <p align="center"><i>Laboratory equipment tracking platform for automated borrowing workflows.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      </p>
+    <td width="33%" valign="top">
+      <h4>🎮 Project Aether</h4>
+      <p>Phaser-based RPG prototype exploring gameplay mechanics and physics systems.</p>
+      <p><b>Stack:</b> <code>Phaser</code> · <code>JS</code> · <code>Vite</code></p>
       <ul>
-        <li>Equipment availability & checkout tracking</li>
-        <li>Automated borrowing & reservation workflows</li>
-        <li>Administrative management & audit trails</li>
+        <li>Player movement & combat</li>
+        <li>Collision detection</li>
+        <li>Game state management</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚌 Bus Management System (BMS)</h3>
-      <p align="center"><i>Mobile system focused on organizing terminal transportation and routing workflows.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
+    <td width="33%" valign="top">
+      <h4>🔌 CircuitHub</h4>
+      <p>Laboratory equipment tracking platform for automated borrowing workflows.</p>
+      <p><b>Stack:</b> <code>React</code> · <code>Firebase</code> · <code>Spring Boot</code></p>
       <ul>
-        <li>Route management & schedule display</li>
-        <li>User-facing mobile terminal interface</li>
-        <li>Real-time transportation data sync</li>
+        <li>Equipment availability</li>
+        <li>Checkout workflows</li>
+        <li>Admin tracking</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🚌 BMS</h4>
+      <p>Mobile transportation platform for route management and terminal scheduling.</p>
+      <p><b>Stack:</b> <code>Android</code> · <code>Java</code> · <code>Firebase</code></p>
+      <ul>
+        <li>Route scheduling</li>
+        <li>Mobile interface</li>
+        <li>Data management</li>
       </ul>
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
