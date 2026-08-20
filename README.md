@@ -98,19 +98,93 @@ I build resilient full-stack applications and construct automated testing pipeli
   </tr>
 </table>
 
-<details>
-<summary><b>View Additional Projects</b></summary>
-<br/>
+<h2>Featured Projects</h2>
 
-#### 🎮 Project Aether
-> **Stack:** `Phaser` · `JavaScript` · `Vite` · `React`  
-> Phaser-based RPG prototype focusing on character movement mechanics, collision detection, state management, and real-time world interactions.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-#### 🔌 CircuitHub
-> **Stack:** `React` · `Firebase` · `Spring Boot`  
-> Laboratory equipment tracking platform featuring real-time availability updates, automated checkout workflows, and administrative audit trails.
+### TaskFlow QA
 
-</details>
+Full-stack task management application built as a dedicated QA automation project.
+
+**Stack**
+
+`React` · `Laravel` · `MySQL` · `Playwright`
+
+**Highlights**
+
+- Page Object Model architecture
+- End-to-end testing
+- Authentication & task workflows
+- GitHub Actions CI
+- HTML reports, traces & videos
+
+<a href="https://github.com/ElReyDeLosGorditos/taskflow-qa">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="TaskFlow QA Repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Project Aether
+
+Phaser-based RPG prototype exploring gameplay systems and interactive world mechanics.
+
+**Stack**
+
+`Phaser` · `JavaScript` · `Vite`
+
+**Highlights**
+
+- Player movement
+- Combat mechanics
+- Collision detection
+- Game state management
+- World interaction
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### CircuitHub
+
+Laboratory equipment borrowing platform designed to manage equipment availability and borrowing workflows.
+
+**Stack**
+
+`React` · `Firebase` · `Spring Boot`
+
+**Highlights**
+
+- Equipment management
+- Borrowing workflows
+- Availability tracking
+- Administrative management
+
+</td>
+<td width="50%" valign="top">
+
+### BMS
+
+Bus management system focused on organizing transportation data and supporting administrative workflows.
+
+**Stack**
+
+`Android` · `Java` · `Firebase`
+
+**Highlights**
+
+- Route management
+- Bus information
+- User-facing mobile interface
+- Data management
+
+</td>
+</tr>
+</table>
 
 ---
 
