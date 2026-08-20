@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="John Lawrence Regis Banner"/>
+</p>
 <div align="center">
 
 Hi, I'm John Lawrence Regis 👋
