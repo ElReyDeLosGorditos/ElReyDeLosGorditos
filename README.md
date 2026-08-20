@@ -7,16 +7,37 @@
 </p>
 
 <p align="center">
-  <a href="https://regis-portfolio-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  <a
+    href="https://regis-portfolio-nine.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=react&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/john-lawrence-regis-0b8163366/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a
+    href="https://www.linkedin.com/in/john-lawrence-regis-0b8163366/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;
-  <a href="https://github.com/ElReyDeLosGorditos">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a
+    href="https://github.com/ElReyDeLosGorditos"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
