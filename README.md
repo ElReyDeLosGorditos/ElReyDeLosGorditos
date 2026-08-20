@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm John Lawrence Regis 👋
 
-<!--
-**ElReyDeLosGorditos/ElReyDeLosGorditos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSIT Graduate • QA Automation • Full-Stack Development
 
-Here are some ideas to get you started:
+I build applications and test them with the same mindset I'd use in a real QA environment. My current focus is Playwright, React, Laravel, MySQL, and GitHub Actions CI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Project
+TaskFlow QA
+
+A full-stack task management application built with React, Laravel, MySQL, and Playwright.
+
+Highlights:
+
+End-to-End Testing
+Page Object Model (POM)
+GitHub Actions CI
+Automated Database Seeding
+HTML Reports with Screenshots, Videos, and Traces
+Tech Stack
+Frontend	Backend	Testing	Tools
+React	Laravel	Playwright	Git
+Tailwind CSS	MySQL	GitHub Actions	Figma
+JavaScript	PHP	QA Automation	Vite
+Currently Working On
+Improving Playwright automation practices
+Building full-stack portfolio projects
+Expanding QA testing workflows
+Connect With Me
+GitHub: @ElReyDeLosGorditos
